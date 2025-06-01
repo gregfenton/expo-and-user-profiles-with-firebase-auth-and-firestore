@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "e-web",
-    "slug": "e-web",
+    "name": "expo-auth-and-user-profiles",
+    "slug": "expo-auth-and-user-profiles",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

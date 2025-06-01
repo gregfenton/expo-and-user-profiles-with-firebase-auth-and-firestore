@@ -25,7 +25,7 @@ This component uses the Firebase Auth service (it gets from the &lt;FirebaseProv
 
 1. `git clone https://github.com/gregfenton/expo-and-user-profiles-with-firebase-auth-and-firestore.git`
 1. `cd expo-and-user-profiles-with-firebase-auth-and-firestore`
-1. `npm install expo@latest` to install Expo
+1. `yarn install expo` to install Expo (the version/SDK in package.json)
 1. `npx expo install` to install the remaining NPM dependencies
 1. Open your favourite code editor (e.g. `code .` to run VSCode on this project)
 1. Ensure your Firebase project has enabled the Email/Password sign-in provider:
