@@ -38,7 +38,7 @@ This component uses the Firebase Auth service (it gets from the &lt;FirebaseProv
      - if prompted for Security Rules, choose to go with **_test mode_** for now
 1. Copy the file `providers/firebaseConfig.json.example` to `providers/firebaseConfig.json`
 1. Edit the file `providers/firebaseConfig.json` and replace the file's contents with your Firebase project's configuration (see initial contents of the JSON file for instructions)
-1. `npm run start` to start the Expo development server
+1. `yarn start` to start the Expo development server
 1. Once started, click `i` to start the iOS simulator, `a` to start the Android emulator, `w` to open the web browser, or `q` to quit the Expo CLI
 
 In the running app:
